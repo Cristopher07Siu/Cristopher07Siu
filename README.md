@@ -1,61 +1,171 @@
-<!-- BANNER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:3B82F6,100:00FFFF&height=220&section=header&text=CRISTOPHER&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Anime%20%7C%20Code%20%7C%20Technology&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050014,25:18002F,50:3B0A5E,75:004C66,100:00FFFF&text=CRISTOPHER&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=DEVELOPER%20%7C%20ANIME%20%7C%20TECHNOLOGY&descSize=18&descAlignY=58&animation=twinkling"/>
 
-</div>
+# 🌌 「 こんにちは 」 — Olá, eu sou **Cristopher** 👋
 
-<!-- APRESENTAÇÃO -->
+### 💻 Estudante de Tecnologia da Informação | 🐍 Python | 🎌 Anime
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=21&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=750&lines=Estudante+de+Tecnologia+da+Informação;Python+Developer+em+evolução;Desenvolvimento+Web;Automação+%7C+Arduino+%7C+ESP32;Transformando+ideias+em+código;Leveling+up+every+day+%E2%9C%A8"/>
 
-# ✨ こんにちは! Eu sou Cristopher 👋
+<br>
 
-### 🎌 Anime Lover • 💻 Developer • 🐍 Python Enthusiast
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Estudante+de+Tecnologia+da+Informação;Apaixonado+por+programação;Aprendendo+Python;Criando+projetos;進化+constante+🚀"/>
+![Profile Views](https://komarev.com/ghpvc/?username=Cristopher07Siu&color=00ffff&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## 🌸 Sobre mim
+# 🧬 「 CHARACTER PROFILE 」
 
 ```text
-╭────────────────────────────────────────────╮
-│                                            │
-│  👤 Nome: Cristopher                       │
-│  🎓 SENAI: Tecnologia da Informação       │
-│  💻 Área: Desenvolvimento                  │
-│  🐍 Foco: Python                            │
-│  🌐 Web: HTML • CSS • JavaScript            │
-│  🤖 Automação: Arduino • ESP32              │
-│  🎌 Estilo: Anime & Tecnologia              │
-│                                            │
-╰────────────────────────────────────────────╯
+╔══════════════════════════════════════════════════════════════╗
+║                     CHARACTER DATA                          ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  👤 NAME        → Cristopher                                ║
+║  🎓 CLASS       → TI Student                                ║
+║  💻 ROLE        → Developer in Training                     ║
+║  🐍 MAIN SKILL  → Python                                    ║
+║  🌐 SECONDARY   → HTML • CSS • JavaScript                   ║
+║  🤖 TECH        → Arduino • ESP32                            ║
+║  🧠 SPECIAL     → Logic & Problem Solving                  ║
+║  🎌 STYLE       → Anime + Technology                        ║
+║                                                              ║
+║  STATUS         → 🟢 ONLINE                                 ║
+║  LEVEL          → ███████░░░  70%                           ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 
-|    📚 Área    |   ⚡ Progresso  |
+|    ⚔️ SKILL   |   🧠 TRAINING  |
 | :-----------: | :------------: |
-|   🐍 Python   | ███████░░░ 70% |
-|   🧠 Lógica   | ████████░░ 80% |
-|  🌐 HTML/CSS  | ███████░░░ 70% |
+|   🐍 Python   | ████████░░ 80% |
+|    🧠 Logic   | ████████░░ 80% |
+| 🌐 HTML / CSS | ███████░░░ 70% |
 | 💻 JavaScript | █████░░░░░ 50% |
-|  🤖 Automação | █████░░░░░ 50% |
+| 🤖 Automation | █████░░░░░ 50% |
 |    🔌 ESP32   | ████░░░░░░ 40% |
 
-             ╱|、
-            (˚ˎ 。7
-             |、˜〵
-             じしˍ,)ノ
+╔══════════════════════════════════════════════════╗
+║                  ⚡ POWER LEVEL ⚡                ║
+╠══════════════════════════════════════════════════╣
+║                                                  ║
+║  🧠 LOGIC                                       ║
+║  ████████████████░░░░  85%                      ║
+║                                                  ║
+║  🐍 PYTHON                                      ║
+║  ███████████████░░░░░  75%                      ║
+║                                                  ║
+║  🌐 WEB DEVELOPMENT                             ║
+║  ██████████████░░░░░░  70%                      ║
+║                                                  ║
+║  🤖 AUTOMATION                                  ║
+║  ███████████░░░░░░░░░  55%                      ║
+║                                                  ║
+║  🔌 ESP32                                       ║
+║  █████████░░░░░░░░░░░  45%                      ║
+║                                                  ║
+║  ⚡ C++                                         ║
+║  ████████░░░░░░░░░░░░  40%                      ║
+║                                                  ║
+╚══════════════════════════════════════════════════╝
 
-        ┌─────────────────────┐
-        │  SYSTEM ONLINE      │
-        │                     │
-        │  > Python           │
-        │  > HTML/CSS         │
-        │  > JavaScript       │
-        │  > Arduino          │
-        │  > ESP32            │
-        │                     │
-        │  STATUS: LEARNING   │
-        └─────────────────────┘
+┌──────────────────────────────────────────────────────────┐
+│                  CRISTOPHER OS v1.0                      │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  > Booting developer system...                          │
+│                                                          │
+│  [████████████████████████████████████] 100%            │
+│                                                          │
+│  ✓ Python module loaded                                  │
+│  ✓ Web development module loaded                         │
+│  ✓ Automation module loaded                              │
+│  ✓ Arduino module loaded                                 │
+│  ✓ ESP32 module loaded                                   │
+│                                                          │
+│  SYSTEM STATUS: ONLINE 🟢                                │
+│                                                          │
+│  > Preparing next level...                               │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────┐
+│                                             │
+│  🐍 Python                                  │
+│                                             │
+│  • Sistemas de gerenciamento                │
+│  • Exercícios de lógica                     │
+│  • Automação                                │
+│  • Projetos acadêmicos                      │
+│                                             │
+└─────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────┐
+│                                             │
+│  🌐 Web                                     │
+│                                             │
+│  • HTML5                                    │
+│  • CSS3                                     │
+│  • JavaScript                               │
+│  • Interfaces e páginas                     │
+│                                             │
+└─────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────┐
+│                                             │
+│  🤖 Hardware                                │
+│                                             │
+│  • Arduino                                  │
+│  • ESP32                                    │
+│  • Sensores                                 │
+│  • Automação                                │
+│                                             │
+└─────────────────────────────────────────────┘
+
+        🐍 PYTHON
+             ↓
+     🧠 LOGIC PROGRAMMING
+             ↓
+      🌐 WEB DEVELOPMENT
+             ↓
+        🤖 AUTOMATION
+             ↓
+       🔌 ARDUINO / ESP32
+             ↓
+       💻 JAVASCRIPT
+             ↓
+        🚀 NEXT LEVEL
+
+╔══════════════════════════════════════════════╗
+║                  NEXT QUEST                  ║
+╠══════════════════════════════════════════════╣
+║                                              ║
+║  ⬜ 🐍 Dominar Python                        ║
+║  ⬜ 🌐 Criar projetos Web maiores             ║
+║  ⬜ 🤖 Desenvolver sistemas de automação     ║
+║  ⬜ 🔌 Criar projetos com ESP32              ║
+║  ⬜ 🧠 Melhorar lógica de programação        ║
+║  ⬜ 🚀 Criar meu próprio portfólio           ║
+║  ⬜ 💻 Contribuir para projetos              ║
+║  ⬜ ⭐ Evoluir como desenvolvedor            ║
+║                                              ║
+╚══════════════════════════════════════════════╝
+
+              ╔══════════════════╗
+              ║                  ║
+              ║     DREAM        ║
+              ║       ↓          ║
+              ║     LEARN        ║
+              ║       ↓          ║
+              ║      CODE        ║
+              ║       ↓          ║
+              ║      FAIL        ║
+              ║       ↓          ║
+              ║     LEARN        ║
+              ║      AGAIN       ║
+              ║       ↓          ║
+              ║    LEVEL UP      ║
+              ║                  ║
+              ╚══════════════════╝
+
