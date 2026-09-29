@@ -1,285 +1,179 @@
 <!-- ========================================================= -->
 
-<!--                    CRISTOPHER07SIU                        -->
+<!--                  CRISTOPHER07SIU                          -->
 
-<!--              GITHUB PROFILE README                        -->
+<!--             REALISTIC DEVELOPER PROFILE                  -->
 
 <!-- ========================================================= -->
 
 <div align="center">
 
-<!-- HEADER -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,20:0b1020,40:111827,60:172554,80:1e3a5f,100:00e5ff&height=280&section=header&text=CRISTOPHER&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Technology%20%7C%20Web%20%7C%20Python&descAlignY=58&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,30:07111f,60:0c2d48,85:006d8f,100:00e5ff&height=300&section=header&text=CRISTOPHER&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Technology%20%7C%20Web%20Development&descAlignY=58&descSize=21"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=SYSTEM+INITIALIZED...;Welcome+to+Cristopher07Siu's+GitHub;Developer+in+constant+evolution;Building+ideas+with+code;Python+%7C+HTML+%7C+CSS+%7C+JavaScript;Learning+today.+Building+tomorrow.+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Hello%2C+I'm+Cristopher+%F0%9F%91%8B;Welcome+to+my+digital+workspace;Python+%7C+HTML+%7C+CSS+%7C+JavaScript;Building+projects+one+commit+at+a+time;Always+learning.+Always+building.+%F0%9F%9A%80" />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Cristopher07Siu&style=for-the-badge&color=00e5ff&label=PROFILE+VIEWS"/>
-
-<img src="https://img.shields.io/github/followers/Cristopher07Siu?style=for-the-badge&color=111827&labelColor=050505&logo=github&label=FOLLOWERS"/>
-
-<img src="https://img.shields.io/github/stars/Cristopher07Siu?style=for-the-badge&color=00e5ff&labelColor=050505&logo=github&label=STARS"/>
+<img src="https://komarev.com/ghpvc/?username=Cristopher07Siu&style=for-the-badge&color=00e5ff&label=PROFILE+VISITORS"/>
 
 </div>
 
 ---
 
-# 🧬 `01` — SYSTEM PROFILE
+# 👋 Hey, I'm Cristopher!
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                    CRISTOPHER PROFILE                        ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  USER        :: Cristopher                                   ║
-║  GITHUB      :: Cristopher07Siu                              ║
-║  COUNTRY     :: Brazil 🇧🇷                                    ║
-║  FIELD       :: Information Technology                        ║
-║  ROLE        :: Developer in Training                         ║
-║  FOCUS       :: Web Development + Programming                 ║
-║  MAIN LANG   :: Python 🐍                                    ║
-║  ENVIRONMENT :: VS Code + Git Bash                            ║
-║  PLATFORM    :: GitHub                                       ║
-║                                                              ║
-║  STATUS      :: ONLINE                                       ║
-║  MODE        :: LEARNING                                     ║
-║  MISSION     :: BUILD                                        ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+### `Developer in progress...`
+
+Sou **Cristopher**, estudante da área de **Tecnologia da Informação** e apaixonado pelo universo da programação.
+
+Meu GitHub é o meu espaço para **aprender, testar, errar, corrigir e construir**.
+
+Atualmente meu foco está principalmente em:
+
+* 🐍 Python
+* 🌐 HTML5
+* 🎨 CSS3
+* ⚡ JavaScript
+* 🔧 Git & GitHub
+* 💻 Desenvolvimento Web
+* 🧠 Lógica de programação
+* 🚀 Criação de projetos
+
+Não quero que meu GitHub seja apenas uma coleção de códigos.
+
+Quero que ele mostre minha **evolução como desenvolvedor**.
+
+<br clear="right"/>
 
 ---
 
-# 👨‍💻 `02` — WHO AM I?
+# 🖥️ My Digital Workspace
 
 <div align="center">
 
-### `> Hello World! I'm Cristopher.`
+<img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1200&q=80" width="90%" alt="Developer workspace"/>
 
 </div>
 
-Olá! Eu sou **Cristopher**, estudante e entusiasta da área de **Tecnologia da Informação**.
+<br>
 
-Meu objetivo é transformar conhecimento em **projetos reais**, utilizando programação, desenvolvimento web e criatividade para construir soluções.
-
-Atualmente, estou focado principalmente em:
-
-```text
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│  🐍 Python                                               │
-│  🌐 HTML5                                                │
-│  🎨 CSS3                                                 │
-│  ⚡ JavaScript                                            │
-│  🔧 Git & GitHub                                         │
-│  💻 Desenvolvimento Web                                  │
-│  🧠 Lógica de Programação                                │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
-
-Ainda estou construindo minha experiência, mas cada projeto representa uma oportunidade de aprender algo novo.
-
-> **Não estou tentando saber tudo. Estou tentando aprender algo novo todos os dias.**
+> 💡 **Código começa como uma ideia.**
+>
+> Depois vira projeto.
+>
+> Depois vira experiência.
 
 ---
 
-# 🧠 `03` — DEVELOPER MINDSET
+# 🧬 About Me
 
 ```python
-class Developer:
+class Cristopher:
 
-    def __init__(self):
-        self.name = "Cristopher"
-        self.username = "Cristopher07Siu"
-        self.area = "Technology"
-        self.focus = "Development"
+    name = "Cristopher"
+    github = "Cristopher07Siu"
+    country = "Brazil 🇧🇷"
 
-    def learn(self):
-        return [
-            "Programming",
-            "Web Development",
-            "Problem Solving",
-            "Git & GitHub"
-        ]
+    area = "Information Technology"
 
-    def future(self):
-        return "Keep building."
+    interests = [
+        "Web Development",
+        "Programming",
+        "Python",
+        "Technology",
+        "Creative Projects"
+    ]
+
+    current_goal = "Become a better developer"
+
+    def introduce(self):
+        print("Hello World! 👋")
 ```
 
-### 🔄 Meu ciclo de aprendizado
+### 🔎 Atualmente
 
-```text
-                 ┌──────────────┐
-                 │    IDEIA     │
-                 └──────┬───────┘
-                        ↓
-                 ┌──────────────┐
-                 │    ESTUDO    │
-                 └──────┬───────┘
-                        ↓
-                 ┌──────────────┐
-                 │    CÓDIGO    │
-                 └──────┬───────┘
-                        ↓
-                 ┌──────────────┐
-                 │    ERRO      │
-                 └──────┬───────┘
-                        ↓
-                 ┌──────────────┐
-                 │   DEBUG      │
-                 └──────┬───────┘
-                        ↓
-                 ┌──────────────┐
-                 │ APRENDIZADO  │
-                 └──────┬───────┘
-                        ↓
-                 ┌──────────────┐
-                 │   EVOLUÇÃO   │
-                 └──────┬───────┘
-                        │
-                        └──────────────→ 🚀
-```
+| 🧩 Área       | 🚀 Foco                |
+| ------------- | ---------------------- |
+| 🐍 Python     | Lógica e programação   |
+| 🌐 Web        | HTML, CSS e JavaScript |
+| 🔧 Git        | Versionamento          |
+| 🧠 Algoritmos | Resolução de problemas |
+| 💻 Projetos   | Prática e experiência  |
 
 ---
 
-# ⚙️ `04` — TECHNOLOGY STACK
-
-## 🐍 Programming
+# 🌐 Web Development
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,nodejs&theme=dark"/>
+<img src="https://images.unsplash.com/photo-1547658719-da2b51169166?auto=format&fit=crop&w=1200&q=80" width="90%" alt="Web development"/>
 
 </div>
 
-### Python
+<br>
 
-```text
-████████████████████████████████████████  Python
-████████████████████████████░░░░░░░░░░  JavaScript
-██████████████████████████░░░░░░░░░░░░  Logic
-████████████████████████░░░░░░░░░░░░░░  Algorithms
-```
+Meu interesse por desenvolvimento web começou pela vontade de entender como sites e aplicações realmente funcionam.
 
----
-
-## 🌐 Web Development
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript&theme=dark"/>
-
-</div>
-
-### Tecnologias estudadas
-
-| Tecnologia | Área             | Utilização            |
-| ---------- | ---------------- | --------------------- |
-| HTML5      | Estrutura        | Criação de páginas    |
-| CSS3       | Design           | Estilização           |
-| JavaScript | Programação      | Interatividade        |
-| Python     | Backend / lógica | Programação           |
-| Node.js    | Runtime          | Aplicações JavaScript |
-
----
-
-# 🛠️ `05` — DEVELOPMENT TOOLS
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github,windows&theme=dark"/>
-
-</div>
-
-### Ambiente
-
-```bash
-$ whoami
-Cristopher
-
-$ pwd
-/development/projects
-
-$ editor
-Visual Studio Code
-
-$ version-control
-Git
-
-$ remote
-GitHub
-
-$ operating-system
-Windows
-```
-
----
-
-# 🌐 `06` — WEB DEVELOPMENT
-
-Minha área de interesse inclui a criação de sites e aplicações web.
-
-### Atualmente estudando:
+### 🌎 Minha jornada:
 
 ```text
 HTML
- │
- ├── Estrutura semântica
- ├── Tags
- ├── Formulários
- ├── Links
- ├── Imagens
- └── Organização de páginas
-
+  ↓
+Estrutura
+  ↓
 CSS
- │
- ├── Cores
- ├── Tipografia
- ├── Layout
- ├── Flexbox
- ├── Responsividade
- └── Design
-
+  ↓
+Design
+  ↓
 JavaScript
- │
- ├── Variáveis
- ├── Condições
- ├── Repetições
- ├── Funções
- ├── Arrays
- └── Interatividade
+  ↓
+Interatividade
+  ↓
+Projetos
+  ↓
+Aplicações
+  ↓
+🚀 Desenvolvimento
 ```
 
 ---
 
-# 🐍 `07` — PYTHON JOURNEY
+# 🐍 Python
 
-Python é uma das linguagens que mais estou explorando atualmente.
+<div align="center">
 
-### Conceitos estudados
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="450"/>
+
+</div>
+
+Python é uma das tecnologias que estou explorando com bastante interesse.
+
+### 📚 Estudando:
+
+```text
+✓ Variáveis
+✓ Entrada e saída
+✓ Operadores
+✓ Condições
+✓ Loops
+✓ Listas
+✓ Funções
+✓ Algoritmos
+✓ Estruturas de dados
+○ Programação Orientada a Objetos
+○ APIs
+○ Automação
+○ Projetos maiores
+```
+
+### Um pouco do meu estilo:
 
 ```python
-# Variáveis
-
 nome = "Cristopher"
-idade = 18
-
-# Condições
-
-if idade >= 18:
-    print("Maior de idade")
-
-# Repetições
-
-for numero in range(5):
-    print(numero)
-
-# Listas
 
 tecnologias = [
     "Python",
@@ -288,586 +182,566 @@ tecnologias = [
     "JavaScript"
 ]
 
-# Funções
-
-def aprender():
-    print("Continuar estudando!")
-```
-
-### Meu objetivo com Python
-
-```text
-[✓] Sintaxe básica
-[✓] Variáveis
-[✓] Entrada e saída
-[✓] Condições
-[✓] Repetições
-[✓] Listas
-[ ] Funções avançadas
-[ ] POO
-[ ] APIs
-[ ] Automação
-[ ] Projetos maiores
+for tecnologia in tecnologias:
+    print(f"Estudando {tecnologia} 🚀")
 ```
 
 ---
 
-# 🧩 `08` — PROBLEM SOLVING
-
-Programar não é apenas escrever código.
-
-É aprender a transformar um problema em uma sequência de soluções.
-
-```text
-              PROBLEMA
-                  │
-                  ▼
-             ENTENDER
-                  │
-                  ▼
-              ANALISAR
-                  │
-                  ▼
-             PLANEJAR
-                  │
-                  ▼
-              CODIFICAR
-                  │
-                  ▼
-               TESTAR
-                  │
-             ┌────┴────┐
-             │         │
-           ERRO       OK
-             │         │
-             ▼         ▼
-           DEBUG     FINAL
-             │
-             └──────→ 🚀
-```
-
----
-
-# 📚 `09` — CURRENT LEARNING
-
-### 🧠 Lógica de programação
-
-* Algoritmos
-* Fluxogramas
-* Variáveis
-* Operadores
-* Condições
-* Repetições
-* Vetores
-* Matrizes
-* Funções
-* Estruturas de dados
-
-### 🌐 Desenvolvimento Web
-
-* HTML5
-* CSS3
-* JavaScript
-* Responsividade
-* Estrutura semântica
-* Interfaces
-
-### 🔧 Versionamento
-
-* Git
-* GitHub
-* Branches
-* Commits
-* Push
-* Pull
-* Merge
-* Repositórios remotos
-
----
-
-# 📊 `10` — GITHUB ANALYTICS
+# 🎨 HTML + CSS
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Cristopher07Siu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=050505&title_color=00e5ff&icon_color=00e5ff&text_color=ffffff"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristopher07Siu&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00e5ff&text_color=ffffff"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3F4M2V6aDZuOHh0azBqOGM3a2Z6bXBqYzN5cWJ5dHh4c2V4dWZ6YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dWesBcTLavkZuG35MI/giphy.gif" width="450"/>
 
 </div>
 
+Estou estudando como transformar estruturas simples em interfaces mais interessantes.
+
+```html
+<!DOCTYPE html>
+
+<html lang="pt-br">
+
+<head>
+    <title>Cristopher</title>
+</head>
+
+<body>
+
+    <h1>Olá, mundo!</h1>
+
+    <p>
+        Construindo meu próximo projeto...
+    </p>
+
+</body>
+
+</html>
+```
+
 ---
 
-# 🔥 `11` — CONTRIBUTION STREAK
+# ⚡ JavaScript
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Cristopher07Siu&theme=tokyonight&hide_border=true&background=050505&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff"/>
+<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="400"/>
 
 </div>
 
+JavaScript entra na minha jornada para adicionar **interatividade e comportamento** às páginas.
+
+```javascript
+const developer = "Cristopher";
+
+function buildProject() {
+
+    console.log("Projeto iniciado 🚀");
+
+}
+
+buildProject();
+```
+
 ---
 
-# 🐍 `12` — CONTRIBUTION SNAKE
+# 🧰 My Tech Stack
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+<img src="https://skillicons.dev/icons?i=python,html,css,javascript,nodejs,git,github,vscode&theme=dark" />
 
 </div>
 
----
+<br>
 
-# 📈 `13` — DEVELOPMENT ROADMAP
+### 🐍 Programming
 
-```text
-2026
- │
- ├── HTML5
- │    └── ████████████████████ 100%
- │
- ├── CSS3
- │    └── █████████████████░░░ 85%
- │
- ├── Python
- │    └── ██████████████░░░░░░ 70%
- │
- ├── JavaScript
- │    └── ████████████░░░░░░░░ 60%
- │
- ├── Git & GitHub
- │    └── ███████████████░░░░░ 75%
- │
- └── Web Development
-      └── ██████████████░░░░░░ 70%
-```
+`Python` `JavaScript`
 
-> As porcentagens são apenas uma representação visual do meu momento de aprendizado, não métricas oficiais.
+### 🌐 Front-End
+
+`HTML5` `CSS3` `JavaScript`
+
+### 🔧 Tools
+
+`Git` `GitHub` `VS Code` `Git Bash`
 
 ---
 
-# 🚀 `14` — PROJECTS
+# 💻 My Development Environment
 
-## 🌐 Web Projects
+<div align="center">
 
-Projetos focados na criação de páginas e interfaces.
+<img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" width="90%" alt="Technology workspace"/>
+
+</div>
+
+<br>
 
 ```text
-┌────────────────────────────────────────────┐
-│               WEB PROJECTS                 │
-├────────────────────────────────────────────┤
-│                                            │
-│  🌐 Websites                               │
-│  🎨 Interfaces                             │
-│  📱 Responsive Layouts                      │
-│  🧩 HTML/CSS Projects                      │
-│  ⚡ JavaScript Experiments                  │
-│                                            │
-└────────────────────────────────────────────┘
+╔══════════════════════════════════════════════╗
+║              DEVELOPMENT SETUP               ║
+╠══════════════════════════════════════════════╣
+║                                              ║
+║  OS          → Windows                       ║
+║  EDITOR      → Visual Studio Code            ║
+║  TERMINAL    → Git Bash                      ║
+║  VERSION     → Git                            ║
+║  PLATFORM    → GitHub                        ║
+║                                              ║
+║  LANGUAGE    → Python                         ║
+║  WEB         → HTML / CSS / JavaScript       ║
+║                                              ║
+╚══════════════════════════════════════════════╝
 ```
 
 ---
 
-## 🐍 Python Projects
+# 🧠 How I Learn
 
-Projetos voltados para lógica e resolução de problemas.
+<div align="center">
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="420"/>
+
+</div>
+
+Minha forma de aprender programação envolve principalmente:
+
+### 01. 📖 Estudar
+
+Entender o conceito antes de tentar utilizá-lo.
+
+### 02. 💻 Praticar
+
+Transformar teoria em código.
+
+### 03. 🐛 Errar
+
+Encontrar problemas faz parte do processo.
+
+### 04. 🔎 Pesquisar
+
+Ler documentação e procurar soluções.
+
+### 05. 🛠️ Corrigir
+
+Entender o erro e melhorar o código.
+
+### 06. 🚀 Criar
+
+Usar o conhecimento em projetos próprios.
+
+---
+
+# 🐛 Debugging Mode
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/9LQHvkbIzTSyQ/giphy.gif" width="420"/>
+
+</div>
+
+<br>
 
 ```text
-🐍 Algorithms
-🐍 Automation
-🐍 Console Applications
-🐍 Data Manipulation
-🐍 Programming Exercises
-🐍 Problem Solving
+[ SYSTEM ]
+
+Running application...
+
+██████████████████████████ 100%
+
+Checking code...
+
+⚠ ERROR FOUND
+
+Searching...
+
+Analyzing...
+
+Fixing...
+
+Testing...
+
+██████████████████████████ 100%
+
+✓ BUILD SUCCESSFUL
+
+Developer status:
+ONLINE 🚀
 ```
 
 ---
 
-# 🧪 `15` — EXPERIMENT LAB
+# 🔥 Git & GitHub
 
-Aqui entram os projetos em que estou testando ideias novas.
+<div align="center">
 
-```text
-[ LAB STATUS ]
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="420"/>
 
-██████████████████████████████████
+</div>
 
-STATUS: ACTIVE
+Git faz parte da minha rotina para controlar a evolução dos meus projetos.
 
-CURRENT MODE:
-> EXPERIMENTING
-
-OBJECTIVE:
-> Learn by building
-
-ERRORS:
-> Expected
-
-BUGS:
-> Probably
-
-COFFEE:
-> Optional ☕
-
-RESULT:
-> UNKNOWN
-
-```
-
----
-
-# 🧑‍💻 `16` — MY DEVELOPMENT PHILOSOPHY
-
-### 01 — Aprender
-
-> Todo projeto começa com algo que eu ainda não sei.
-
-### 02 — Praticar
-
-> Conhecimento sem prática não vira habilidade.
-
-### 03 — Errar
-
-> Erros fazem parte do processo de desenvolvimento.
-
-### 04 — Corrigir
-
-> Debug é uma parte essencial da programação.
-
-### 05 — Evoluir
-
-> Cada projeto deve ensinar alguma coisa nova.
-
----
-
-# 💡 `17` — PRINCÍPIOS
-
-```text
-01. Never stop learning.
-02. Build before you're ready.
-03. Read the documentation.
-04. Don't be afraid of errors.
-05. Keep your code organized.
-06. Learn from every project.
-07. Practice consistently.
-08. Understand before copying.
-09. Version everything.
-10. Keep moving forward.
-```
-
----
-
-# 🧠 `18` — WHAT I'M WORKING ON
-
-```text
-┌────────────────────────────────────────────────────┐
-│                                                    │
-│  [01] Improve Python                               │
-│  [02] Improve JavaScript                           │
-│  [03] Build better websites                       │
-│  [04] Learn more Git                               │
-│  [05] Create portfolio projects                    │
-│  [06] Improve problem solving                      │
-│  [07] Understand programming fundamentals          │
-│  [08] Explore new technologies                     │
-│                                                    │
-└────────────────────────────────────────────────────┘
-```
-
----
-
-# 🗺️ `19` — ROADMAP
-
-```text
-                 ┌───────────────┐
-                 │     START     │
-                 └───────┬───────┘
-                         │
-                         ▼
-                ┌─────────────────┐
-                │ PROGRAMMING     │
-                │ FUNDAMENTALS    │
-                └────────┬────────┘
-                         │
-                         ▼
-                ┌─────────────────┐
-                │      PYTHON     │
-                └────────┬────────┘
-                         │
-                         ▼
-              ┌──────────────────────┐
-              │    WEB DEVELOPMENT   │
-              └──────────┬───────────┘
-                         │
-                         ▼
-              ┌──────────────────────┐
-              │    JAVASCRIPT        │
-              └──────────┬───────────┘
-                         │
-                         ▼
-              ┌──────────────────────┐
-              │      PROJECTS        │
-              └──────────┬───────────┘
-                         │
-                         ▼
-              ┌──────────────────────┐
-              │     PORTFOLIO        │
-              └──────────┬───────────┘
-                         │
-                         ▼
-                     🚀 FUTURE
-```
-
----
-
-# 🎮 `20` — DEVELOPER MODE
-
-```text
-╔══════════════════════════════════════╗
-║          DEVELOPER MODE              ║
-╠══════════════════════════════════════╣
-║                                      ║
-║  ☕ Coffee        [████████░░]       ║
-║  🧠 Focus         [█████████░]       ║
-║  💻 Coding       [████████░░]       ║
-║  🐛 Bugs         [██████░░░░]       ║
-║  🚀 Motivation   [██████████]       ║
-║                                      ║
-║  STATUS: BUILDING                    ║
-║                                      ║
-╚══════════════════════════════════════╝
-```
-
----
-
-# 🖥️ `21` — TERMINAL
+### Workflow
 
 ```bash
-Cristopher@github:~$ neofetch
-
-            ██████████████
-          ██████████████████
-        ████████        ████████
-       ██████              ██████
-      █████                  █████
-      █████     CRISTOPHER    █████
-       █████                █████
-        ███████          ███████
-          ████████████████████
-             ██████████████
-
-OS:          Windows
-Shell:       Git Bash
-Editor:      VS Code
-Git:         Enabled
-GitHub:      Connected
-Language:    Python
-Focus:       Web Development
-Status:      Learning
-
-Cristopher@github:~$ git status
-
-On branch main
-Your branch is learning new things.
-
-nothing to commit,
-keep coding.
-```
-
----
-
-# 🌎 `22` — OPEN SOURCE MINDSET
-
-Acredito que a comunidade de tecnologia cresce quando as pessoas:
-
-```text
-        SHARE
-          ↓
-       LEARN
-          ↓
-       BUILD
-          ↓
-       IMPROVE
-          ↓
-       SHARE AGAIN
-```
-
-Por isso, quero utilizar meu GitHub não apenas como armazenamento de código, mas também como um **registro da minha evolução na programação**.
-
----
-
-# 📂 `23` — REPOSITORY STRUCTURE
-
-Uma estrutura que pretendo utilizar nos meus projetos:
-
-```text
-project/
-│
-├── README.md
-├── index.html
-├── style.css
-├── script.js
-│
-├── assets/
-│   ├── images/
-│   └── icons/
-│
-├── src/
-│   └── main.py
-│
-├── docs/
-│   └── documentation.md
-│
-└── tests/
-    └── test.py
-```
-
----
-
-# 🔐 `24` — GIT WORKFLOW
-
-Meu fluxo básico de versionamento:
-
-```bash
-# Verificar alterações
+# Ver projeto
 git status
 
-# Adicionar arquivos
+# Adicionar alterações
 git add .
 
 # Criar commit
 git commit -m "Atualização"
 
-# Enviar para o GitHub
+# Enviar para GitHub
 git push origin main
 
 # Atualizar projeto
 git pull origin main
 ```
 
-### Fluxo visual
+### Fluxo
 
 ```text
-              LOCAL
-                │
-                ▼
-          ┌───────────┐
-          │   CODE    │
-          └─────┬─────┘
-                │
-                ▼
-          ┌───────────┐
-          │ GIT ADD   │
-          └─────┬─────┘
-                │
-                ▼
-          ┌───────────┐
-          │  COMMIT   │
-          └─────┬─────┘
-                │
-                ▼
-          ┌───────────┐
-          │   PUSH    │
-          └─────┬─────┘
-                │
-                ▼
-             GITHUB
+       💻 CODE
+          │
+          ▼
+      git add
+          │
+          ▼
+      git commit
+          │
+          ▼
+       git push
+          │
+          ▼
+      ☁️ GITHUB
 ```
 
 ---
 
-# 🏆 `25` — ACHIEVEMENTS
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=Cristopher07Siu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00e5ff&icon_color=00e5ff&text_color=ffffff"/>
+
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristopher07Siu&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00e5ff&text_color=ffffff"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Cristopher07Siu&theme=tokyonight&hide_border=true&background=050505&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff" />
+
+</div>
+
+---
+
+# 🐍 My Contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%" />
+
+</div>
+
+---
+
+# 🚀 Projects
+
+<div align="center">
+
+<img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80" width="90%" alt="Programming"/>
+
+</div>
+
+<br>
+
+## 🌐 Web Projects
+
+Projetos relacionados a:
+
+* Websites
+* Landing pages
+* Interfaces
+* HTML/CSS
+* JavaScript
+* Responsividade
+* Experimentos de design
+
+---
+
+## 🐍 Python Projects
+
+Projetos relacionados a:
+
+* Algoritmos
+* Lógica
+* Sistemas
+* Automação
+* Exercícios
+* Manipulação de dados
+
+---
+
+# 🧪 Developer Lab
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/3o7btNhMBytxAM6YBa/giphy.gif" width="420"/>
+
+</div>
+
+Este é o espaço mental onde novas ideias começam.
 
 ```text
-┌───────────────────────────────────────────────┐
-│              DEVELOPER ACHIEVEMENTS          │
-├───────────────────────────────────────────────┤
-│                                               │
-│  ✅ Primeiro código                           │
-│  ✅ Primeiro projeto                          │
-│  ✅ Primeiro repositório                     │
-│  ✅ Primeiro commit                           │
-│  ✅ Primeiro push                             │
-│  🔄 Aprendendo Python                         │
-│  🔄 Evoluindo em JavaScript                   │
-│  🔄 Construindo projetos web                  │
-│  🔒 Próximo nível: projetos maiores           │
-│                                               │
-└───────────────────────────────────────────────┘
+┌────────────────────────────────────┐
+│          DEVELOPER LAB             │
+├────────────────────────────────────┤
+│                                    │
+│  IDEA        → 💡                  │
+│  EXPERIMENT  → 🧪                  │
+│  CODE        → 💻                  │
+│  ERROR       → 🐛                  │
+│  DEBUG       → 🔧                  │
+│  TEST        → 🧪                  │
+│  RESULT      → 🚀                  │
+│                                    │
+└────────────────────────────────────┘
 ```
 
 ---
 
-# 📚 `26` — KNOWLEDGE BASE
+# 📈 Learning Progress
+
+> Estas barras representam apenas uma visão visual do meu momento de estudo.
 
 ```text
-PROGRAMMING
-├── Logic
-├── Algorithms
-├── Variables
-├── Conditions
-├── Loops
-├── Functions
-└── Data Structures
+Python
+████████████████░░░░ 80%
 
-WEB
-├── HTML
-├── CSS
-├── JavaScript
-├── Responsive Design
-└── Semantic Structure
+HTML
+██████████████████░░ 90%
 
-TOOLS
-├── VS Code
-├── Git
-├── GitHub
-└── Git Bash
+CSS
+████████████████░░░░ 80%
+
+JavaScript
+████████████░░░░░░░░ 60%
+
+Git & GitHub
+███████████████░░░░░ 75%
+
+Web Development
+███████████████░░░░░ 75%
 ```
 
 ---
 
-# 🌌 `27` — FUTURE VISION
-
-Meu objetivo é continuar evoluindo na área de tecnologia e transformar meus estudos em projetos cada vez mais completos.
+# 🗺️ My Roadmap
 
 ```text
-HOJE
- │
- ├── Aprender
- │
- ├── Praticar
- │
- └── Criar
- │
- ▼
-AMANHÃ
- │
- ├── Projetos maiores
- │
- ├── Mais conhecimento
- │
- ├── Mais experiência
- │
- └── Mais desafios
- │
- ▼
-FUTURO
- │
- ├── Desenvolver sistemas
- ├── Criar aplicações
- ├── Construir soluções
- └── Trabalhar profissionalmente
-       com tecnologia
+                         🚀 FUTURE
+                            │
+                            ▼
+                  ┌─────────────────┐
+                  │  ADVANCED WEB   │
+                  └────────┬────────┘
+                           │
+                           ▼
+                  ┌─────────────────┐
+                  │   JAVASCRIPT    │
+                  └────────┬────────┘
+                           │
+                           ▼
+                  ┌─────────────────┐
+                  │     PYTHON      │
+                  └────────┬────────┘
+                           │
+                           ▼
+                  ┌─────────────────┐
+                  │   WEB DESIGN    │
+                  └────────┬────────┘
+                           │
+                           ▼
+                  ┌─────────────────┐
+                  │   PROGRAMMING   │
+                  │    LOGIC        │
+                  └────────┬────────┘
+                           │
+                           ▼
+                       📚 TODAY
 ```
 
 ---
 
-# 📡 `28` — CONNECT WITH ME
+# 🎯 Goals
+
+### Curto prazo
+
+* [ ] Melhorar Python
+* [ ] Aprender mais JavaScript
+* [ ] Criar mais projetos
+* [ ] Melhorar HTML e CSS
+* [ ] Praticar Git
+* [ ] Melhorar organização de código
+
+### Médio prazo
+
+* [ ] Criar aplicações web completas
+* [ ] Criar um portfólio
+* [ ] Trabalhar com APIs
+* [ ] Aprender backend
+* [ ] Desenvolver projetos maiores
+
+### Longo prazo
+
+* [ ] Trabalhar profissionalmente com tecnologia
+* [ ] Desenvolver sistemas completos
+* [ ] Criar projetos próprios
+* [ ] Contribuir com projetos
+* [ ] Continuar evoluindo como desenvolvedor
+
+---
+
+# 🌎 Beyond The Code
+
+<div align="center">
+
+<img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80" width="90%" alt="Developers working"/>
+
+</div>
+
+<br>
+
+Programação para mim não é somente aprender linguagens.
+
+É desenvolver:
+
+```text
+🧠 Pensamento lógico
+🔎 Curiosidade
+🛠️ Capacidade de resolver problemas
+🎨 Criatividade
+📚 Disciplina
+🚀 Vontade de aprender
+```
+
+---
+
+# 🎮 Developer Mode
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="450"/>
+
+</div>
+
+```text
+╔════════════════════════════════════════╗
+║             DEVELOPER MODE             ║
+╠════════════════════════════════════════╣
+║                                        ║
+║  🧠 FOCUS          █████████░ 90%      ║
+║  💻 CODE           ████████░░ 80%      ║
+║  📚 LEARNING       ██████████ 100%     ║
+║  🚀 MOTIVATION     ██████████ 100%     ║
+║  🐛 BUGS           ██████░░░░ 60%      ║
+║  ☕ COFFEE         ███████░░░ 70%      ║
+║                                        ║
+║  STATUS: BUILDING                      ║
+║                                        ║
+╚════════════════════════════════════════╝
+```
+
+---
+
+# 🖥️ Terminal
+
+```bash
+Cristopher@dev:~$ whoami
+
+Cristopher
+
+Cristopher@dev:~$ cat profile.txt
+
+Name: Cristopher
+Username: Cristopher07Siu
+Country: Brazil 🇧🇷
+Area: Information Technology
+Focus: Web Development
+Main Language: Python
+Status: Learning
+
+Cristopher@dev:~$ echo "Keep coding."
+
+Keep coding. 🚀
+```
+
+---
+
+# 💭 Developer Philosophy
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
+
+### `Learn.`
+
+### `Build.`
+
+### `Break.`
+
+### `Fix.`
+
+### `Improve.`
+
+### `Repeat.`
+
+</div>
+
+---
+
+# 🌌 Digital Journey
+
+```text
+2026
+ │
+ ├── 📚 Learning
+ │
+ ├── 💻 Programming
+ │
+ ├── 🌐 Web Development
+ │
+ ├── 🐍 Python
+ │
+ ├── 🔧 Git
+ │
+ ├── 🚀 Projects
+ │
+ └── 🌟 Evolution
+       │
+       ▼
+      NEXT
+```
+
+---
+
+# 📡 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/Cristopher07Siu">
 
-<img src="https://img.shields.io/badge/GitHub-Cristopher07Siu-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Cristopher07Siu-181717?style=for-the-badge&logo=github"/>
 
 </a>
 
@@ -881,98 +755,53 @@ FUTURO
 
 ---
 
-# 🧑‍🚀 `29` — DEVELOPER IDENTITY
+# 🧑‍💻 Final Transmission
 
 <div align="center">
 
-```text
-██████████████████████████████████████████████████
-
-       C R I S T O P H E R 0 7 S I U
-
-       TECHNOLOGY
-       PROGRAMMING
-       WEB DEVELOPMENT
-       PYTHON
-       LEARNING
-       BUILDING
-
-██████████████████████████████████████████████████
-```
-
-### `> Code is not just syntax. It's a way to turn ideas into reality.`
-
-</div>
-
----
-
-# 💭 `30` — RANDOM DEVELOPER THOUGHT
-
-```python
-def developer_life():
-
-    while True:
-
-        learn()
-
-        try:
-            build()
-        except Exception:
-            debug()
-            learn_more()
-
-        improve()
-
-        if goal_reached():
-            create_new_goal()
-```
-
----
-
-# 🚀 `31` — FINAL MESSAGE
-
-<div align="center">
-
-## Obrigado por visitar meu GitHub! 👋
-
-Se você chegou até aqui, provavelmente gosta de tecnologia tanto quanto eu.
-
-Este perfil representa minha **jornada de aprendizado**, meus projetos, meus experimentos e minha evolução como desenvolvedor.
-
-Ainda existe muito para aprender.
-
-Ainda existem muitos bugs para corrigir.
-
-Ainda existem muitos projetos para construir.
-
-E é exatamente isso que torna tudo interessante.
-
-<br>
-
-### `LEARN → BUILD → BREAK → DEBUG → IMPROVE → REPEAT`
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Keep+learning.;Keep+building.;Keep+coding.;The+best+code+is+the+code+you+understand.;See+you+in+the+next+commit+%F0%9F%9A%80" />
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="450"/>
 
 <br><br>
+
+## `> SYSTEM MESSAGE`
+
+```text
+This profile is currently under development.
+
+New projects:
+LOADING...
+
+New skills:
+LOADING...
+
+New ideas:
+LOADING...
+
+Experience:
+IN PROGRESS...
+
+Future:
+BUILDING...
+```
+
+<br>
+
+### 🚀 The journey is just beginning.
+
+<br>
 
 **Cristopher07Siu**
 
 `Developer in progress...`
 
-</div>
+<br>
 
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,25:1e3a5f,50:172554,75:111827,100:050505&height=180&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,25:006d8f,50:0c2d48,75:07111f,100:050505&height=180&section=footer"/>
 
 </div>
 
 <!-- ========================================================= -->
 
-<!--              END OF CRISTOPHER README                    -->
+<!--                  END OF README                            -->
 
 <!-- ========================================================= -->
