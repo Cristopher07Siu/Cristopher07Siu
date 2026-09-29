@@ -1,211 +1,75 @@
+# 👨‍💻 Cristopher | `Cristopher07Siu`
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:3b0764,100:00b4d8&height=220&section=header&text=CRISTOPHER&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=TECHNOLOGY%20%7C%20CODE%20%7C%20CREATIVITY&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=CRISTOPHER&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20em%20formação%20%7C%20Tecnologia%20%7C%20Código&descAlignY=58&descSize=18" width="100%"/>
 
-</div>
+### `> Desenvolvendo ideias. Escrevendo código. Criando o futuro.`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Olá%2C+eu+sou+Cristopher+%F0%9F%91%8B;Estudante+de+Tecnologia+%F0%9F%92%BB;Focado+em+desenvolvimento+Web+%F0%9F%8C%90;Aprendendo+Python+%F0%9F%90%8D;Transformando+ideias+em+código+%E2%9A%A1" />
 
 <br>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Cristopher+%F0%9F%91%8B;Technology+Student+%F0%9F%92%BB;Python+Developer+in+progress+%F0%9F%90%8D;Building+ideas+into+code+%E2%9C%A8;Always+learning.+Always+evolving.+%F0%9F%9A%80"/>
-
-<br>
-
-<a href="https://github.com/Cristopher07Siu">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/crph.07/">
-<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
-</a>
+![Profile Views](https://komarev.com/ghpvc/?username=Cristopher07Siu\&color=00ffff\&style=for-the-badge\&label=VISITAS)
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 🧠 Sobre mim
 
-<table>
-<tr>
-<td width="55%">
+```python
+class Cristopher:
 
-### Olá! Eu sou Cristopher 👋
+    def __init__(self):
+        self.nome = "Cristopher"
+        self.usuario = "Cristopher07Siu"
+        self.area = "Tecnologia da Informação"
+        self.foco = [
+            "Desenvolvimento Web",
+            "Programação",
+            "Python",
+            "HTML & CSS"
+        ]
+        self.status = "Sempre aprendendo 🚀"
 
-Sou estudante de **Tecnologia da Informação no SENAI**, apaixonado por programação e tecnologia.
+    def objetivo(self):
+        return "Transformar conhecimento em projetos reais."
+```
 
-Atualmente estou focado em desenvolver minhas habilidades em **Python, desenvolvimento web e automação**.
+💻 Sou estudante da área de **Tecnologia da Informação**, interessado em desenvolvimento de sistemas e criação de sites.
 
-Gosto de aprender criando projetos, testar novas ideias e transformar problemas em soluções através do código.
+🚀 Atualmente estou aprimorando minhas habilidades em programação e desenvolvimento web, construindo projetos para transformar teoria em prática.
 
-🚀 **Meu objetivo é evoluir constantemente.**
-
-</td>
-
-<td width="45%">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
-
-</td>
-</tr>
-</table>
-
----
-
-## ⚡ Tecnologias
-
-<div align="center">
-
-### Linguagens
-
-<img src="https://skillicons.dev/icons?i=python,js,cpp" />
-
-<br><br>
-
-### Web
-
-<img src="https://skillicons.dev/icons?i=html,css" />
-
-<br><br>
-
-### Ferramentas & Hardware
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,raspberrypi" />
-
-</div>
+🐍 Tenho um interesse especial por **Python**, além de tecnologias voltadas para desenvolvimento web.
 
 ---
 
-## 🧠 Minha stack
+# ⚡ Tech Stack
 
-<div align="center">
+### 🌐 Desenvolvimento Web
 
-<table>
-<tr>
+<p align="left">
 
-<td align="center" width="180">
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 
-### 🐍
+</p>
 
-**Python**
+### 🐍 Programação
 
-Automação  
-Lógica  
-Sistemas
+<p align="left">
 
-</td>
+<img src="https://skillicons.dev/icons?i=python,nodejs" />
 
-<td align="center" width="180">
+</p>
 
-### 🌐
+### 🛠️ Ferramentas
 
-**Web**
+<p align="left">
 
-HTML  
-CSS  
-JavaScript
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
-</td>
-
-<td align="center" width="180">
-
-### 🤖
-
-**Hardware**
-
-Arduino  
-ESP32  
-Sensores
-
-</td>
-
-<td align="center" width="180">
-
-### 🛠️
-
-**Tools**
-
-Git  
-GitHub  
-VS Code
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-# 🚀 Projetos
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="50%">
-
-### 🐍 Python Projects
-
-Projetos desenvolvidos para praticar:
-
-- Lógica de programação
-- Estruturas condicionais
-- Loops
-- Listas
-- Sistemas interativos
-- Automação
-
-</td>
-
-<td width="50%">
-
-### 🌐 Web Projects
-
-Criação de páginas utilizando:
-
-- HTML5
-- CSS3
-- JavaScript
-- Interfaces
-- Design responsivo
-- Experiência do usuário
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🤖 Automation
-
-Projetos envolvendo:
-
-- Arduino
-- ESP32
-- Sensores
-- Microcontroladores
-- Automação
-
-</td>
-
-<td width="50%">
-
-### 💡 Experimentos
-
-Sempre testando novas ideias e tecnologias para transformar conceitos em projetos reais.
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
+</p>
 
 ---
 
@@ -213,139 +77,151 @@ Sempre testando novas ideias e tecnologias para transformar conceitos em projeto
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cristopher07Siu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7C3AED&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cristopher07Siu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristopher07Siu&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Cristopher07Siu&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=7C3AED&currStreakLabel=00D9FF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristopher07Siu&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📈 Atividade
+# 🔥 Streak
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cristopher07Siu&bg_color=0D1117&color=00D9FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" width="95%">
+<img src="https://streak-stats.demolab.com?user=Cristopher07Siu&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-# 🎯 Atualmente
+# 🚀 Projetos
 
-<div align="center">
+### 🌐 Desenvolvimento Web
 
-<table>
-<tr>
+Projetos envolvendo:
 
-<td align="center">
+* HTML5
+* CSS3
+* JavaScript
+* Interfaces responsivas
+* Estruturação semântica
+* Experiências web
 
-🐍
+### 🐍 Python
 
-### Python
+Projetos e exercícios focados em:
 
-Aprendendo e  
-desenvolvendo projetos
+* Lógica de programação
+* Algoritmos
+* Estruturas condicionais
+* Laços de repetição
+* Listas
+* Funções
+* Automação
 
-</td>
+### 💡 Projetos em desenvolvimento
 
-<td align="center">
-
-🌐
-
-### Web
-
-Criando interfaces  
-e sites
-
-</td>
-
-<td align="center">
-
-🤖
-
-### Automação
-
-Explorando Arduino  
-e ESP32
-
-</td>
-
-<td align="center">
-
-🧠
-
-### Lógica
-
-Fortalecendo minha  
-base de programação
-
-</td>
-
-</tr>
-</table>
-
-</div>
+> `Mais projetos serão adicionados conforme minha evolução.`
 
 ---
 
-# 🌌 Filosofia
-
-<div align="center">
-
-<br>
-
-### **"O código é apenas uma ferramenta.**
-
-### **A criatividade é o que transforma uma ideia em algo real."**
-
-<br>
-
-</div>
-
----
-
-# 🗺️ Roadmap
+# 🧩 Atualmente estudando
 
 ```text
-                    MY DEVELOPER JOURNEY
+[████████████████░░░░] Python
 
-                           ┌───────────┐
-                           │   START   │
-                           └─────┬─────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │ LOGIC + CODE  │
-                         └───────┬───────┘
-                                 │
-                 ┌───────────────┼───────────────┐
-                 ▼               ▼               ▼
-             ┌────────┐      ┌────────┐      ┌────────┐
-             │ PYTHON │      │  WEB   │      │ IOT    │
-             └────┬───┘      └────┬───┘      └────┬───┘
-                  │               │               │
-                  └───────────────┼───────────────┘
-                                  ▼
-                           ┌─────────────┐
-                           │   PROJECTS  │
-                           └──────┬──────┘
-                                  │
-                                  ▼
-                           ┌─────────────┐
-                           │  PORTFOLIO  │
-                           └──────┬──────┘
-                                  │
-                                  ▼
-                           ┌─────────────┐
-                           │   CAREER    │
-                           └─────────────┘
+[█████████████████░░░] HTML / CSS
 
+[██████████████░░░░░░] JavaScript
+
+[████████████░░░░░░░░] Git & GitHub
+
+[███████████░░░░░░░░░] Desenvolvimento Web
+```
+
+---
+
+# 🎯 Objetivos
+
+* [x] Criar meu perfil no GitHub
+* [x] Aprender Git e GitHub
+* [x] Criar meus primeiros projetos
+* [ ] Evoluir em Python
+* [ ] Aprofundar JavaScript
+* [ ] Criar projetos web completos
+* [ ] Desenvolver sistemas próprios
+* [ ] Construir um portfólio profissional
+* [ ] Trabalhar profissionalmente com tecnologia
+
+---
+
+# 💻 Meu ambiente
+
+```bash
+OS          → Windows
+Editor      → VS Code
+Terminal    → Git Bash
+Versioning  → Git
+Repository  → GitHub
+Languages   → Python | JavaScript | HTML | CSS
+```
+
+---
+
+# 🌐 Conecte-se comigo
+
+<div align="center">
+
+<a href="https://github.com/Cristopher07Siu">
+<img src="https://img.shields.io/badge/GitHub-Cristopher07Siu-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.instagram.com/crph.07/">
+<img src="https://img.shields.io/badge/Instagram-@crph.07-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+# 💭 Filosofia
+
+<div align="center">
+
+> **"O código de hoje é a habilidade de amanhã."**
+
+```text
+while (learning):
+
+    practice()
+    build()
+    fail()
+    learn()
+    improve()
+
+```
+
+### 🚀 Keep Coding. Keep Learning. Keep Building.
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+
+**© 2026 Cristopher — `Cristopher07Siu`**
+
+</div>
